@@ -17,5 +17,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # TinkerVerse
-Random app I thought of in SE-402: Human Computer Interaction. Written in Flutter because it's really easy to migrate cross-platform.
+Random app I thought of in SE-402: Human Computer Interaction. Front-End written in Flutter because it's really easy to migrate cross-platform. Back-End written in mainly in Rust because who doesn't like using new tools?
 >>>>>>> 4886d8b023687f2b5f3776effec0a86d7c556f8e
